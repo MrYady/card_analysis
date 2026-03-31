@@ -1,0 +1,23 @@
+[
+    {
+        "numero": "4532123456789012",
+        "titular": "jaja Neural",
+        "expiracion": "12/28",
+        "cvv": "123",
+        "limite": 5000.00
+    },
+    {
+        "numero": "5105123456789012",
+        "titular": "Socio Alpha",
+        "expiracion": "05/27",
+        "cvv": "456",
+        "limite": 1200.50
+    },
+    {
+        "numero": "5227160093200101",
+        "titular": "Beta Partner",
+        "expiracion": "07/28",
+        "cvv": "906",
+        "limite": 3000.00
+    }
+]
